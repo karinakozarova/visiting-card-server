@@ -12,4 +12,4 @@ The function of this server is to store the data of the visiting-card-android ap
 
 This RESTful web service (REST API) will be later on integrated with the visiting-card-android app and will handle its complete backend.
 
-For more info how app works and to understand the work flow click [here](https://github.com/JBossOutreach/visiting-card-android/blob/master/README.md)
+For more info how app works and to understand the workflow click [here](https://github.com/JBossOutreach/visiting-card-android/blob/master/README.md)
